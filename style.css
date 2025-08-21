@@ -1248,7 +1248,7 @@ body {
 
 .project-number {
   position: absolute;
-  padding-left: 10px;
+  padding-left: 13px;
   padding-top: 10px;
   top: -10px;
   left: -14px;
@@ -1557,3 +1557,4 @@ body {
   opacity: 1;
   transform: translateY(0);
 }
+
